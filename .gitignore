@@ -1,0 +1,8 @@
+node_modules
+todo.js
+.vscode
+.idea/vcs.xml
+.idea/noddi-frontend-admin.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/workspace.xml
